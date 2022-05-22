@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>936797180374-139qqspq28keaguq8u3stpad2v5pdr71.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.936797180374-139qqspq28keaguq8u3stpad2v5pdr71</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>936797180374-v6utrmt3o80essfnvfm77udmmt8druvr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-XrTVhQhSPL9tS-OUJGrMwz7_qPZdReg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>936797180374</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sharif.uberClone</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-uber-clone-01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-uber-clone-01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:936797180374:ios:fe47cac73c2c2f872f5477</string>
+</dict>
+</plist>
